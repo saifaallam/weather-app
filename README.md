@@ -2,6 +2,8 @@
 
 A simple weather app I built using HTML, CSS, and JavaScript. It lets you search for any city and shows the current weather conditions.
 
+![Weather App](https://raw.githubusercontent.com/saifaallam/weather-app/main/screenshot.png)
+
 ## What it does
 
 - Search weather by city name
